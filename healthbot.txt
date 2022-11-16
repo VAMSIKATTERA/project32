@@ -1,0 +1,1 @@
+<iframe src='https://webchat.botframework.com/embed/name?s=<iframe src='https://webchat.botframework.com/embed/healthbot-wair5ef?s=2noCjbeS0to.8KhmhuDW0OJZL3ZjFA8A7JvbFvfTlKUsZDOzE4yCB_o'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
